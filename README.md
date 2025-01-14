@@ -47,7 +47,6 @@ I am Nafiul Khalid<br>Full-Stack Web Developer<br>Looking opportunities in Softw
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulkhalid&theme=dark&hide_border=false)<hr>
 
 
-
 ### Hackathons:
 --> TreeHacks-2025<br>
 --> HackNYU-2025<br>
