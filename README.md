@@ -46,7 +46,6 @@ I am Nafiul Khalid<br>Full-Stack Web Developer<br>Looking opportunities in Softw
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<hr>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulkhalid&theme=dark&hide_border=false)<hr>
 
-
 ### Hackathons:
 --> TreeHacks-2025<br>
 --> HackNYU-2025<br>
