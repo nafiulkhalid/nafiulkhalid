@@ -1,5 +1,12 @@
 
-I am Nafiul Khalid<br>Full-Stack Web Developer<br>Looking opportunities in Software Engineering (SWE)<br>Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>Currently learning Machine Learning (Model Training)<br>Love to design & create<br>Based in Miami, Florida (Open to relocate or remote opportunities)
+I am Nafiul Khalid<br>
+Full-Stack Web Developer<br>
+Looking opportunities in Software Engineering (SWE)<br>
+Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
+-- Currently learning Machine Learning (Model Training)<br>
+-- Love to design & create<br>
+-- Based in Miami, Florida <br>
+(Open to relocate or remote opportunities)<br>
 
 ## Tech Stack:
 
@@ -32,6 +39,8 @@ I am Nafiul Khalid<br>Full-Stack Web Developer<br>Looking opportunities in Softw
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Design Docs](https://img.shields.io/badge/Design-Docs-%234CAF50.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ---
 
