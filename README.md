@@ -47,6 +47,7 @@ Sophomore in Computer Science (B.S.) at Honors College, Florida International Un
 ## GitHub Stats:
 ![Nafiul Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafiulkhalid&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<hr>
+[![GitHub Streak](https://github-readme-streak-stats-ten-eosin.vercel.app?user=Nafiul%20Khalid&theme=dark)](https://git.io/streak-stats)
 
 
 ### Hackathons:
