@@ -2,6 +2,7 @@
 <h3 align="center">I'm, Nafiul Khalid</h3><hr>
 
 Full-Stack Web Developer<br>
+- Preferred : BackEnd
 Looking opportunities in Software Engineering (SWE)<br>
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 -- Currently learning Machine Learning (Model Training)<br>
