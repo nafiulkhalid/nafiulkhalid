@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm, Nafiul Khalid</h3><hr>
+<h2 align="center">I'm, Nafiul Khalid</h2><hr>
 
 Full-Stack Web Developer<br>
 Looking opportunities in Software Engineering (SWE)<br>
