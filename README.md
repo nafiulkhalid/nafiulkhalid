@@ -1,4 +1,6 @@
-<h3 align="center">I'm, Nafiul Khalid</h3><hr>
+![image](https://github.com/user-attachments/assets/0998460f-8b47-41c4-9786-c2b4153ef82a)
+<hr>
+<h3 align="center">I'm, Nafiul Khalid</h3>
 
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
