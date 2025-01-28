@@ -54,13 +54,6 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nafiul Khalid's Most Used Languages" />
 </div>
 
-
-### Hackathons:
---> TreeHacks-2025<br>
---> HackNYU-2025<br>
---> HackHarvard-2024<br>
---> ShellHacks-2024<br>
-
 ### Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
