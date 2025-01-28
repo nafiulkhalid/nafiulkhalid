@@ -1,6 +1,10 @@
 ![image](onee.png)
 ![line](line.gif)
-<h3 align="center">I'm, Nafiul Khalid</h3>
+<div align="center">
+    <img src="hello.gif" alt="Hello!" style="margin-right: 10px; width: 100px; height: auto;">
+    <img src="name.png" alt="I'm Nafiul Khalid!" style="width: 150px; height: auto;">
+</div>
+
 
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
