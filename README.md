@@ -1,4 +1,3 @@
-
 <h3 align="center">I'm, Nafiul Khalid</h3><hr>
 
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
