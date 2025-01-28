@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0998460f-8b47-41c4-9786-c2b4153ef82a)
+![image](onee.png)
 <hr>
 <h3 align="center">I'm, Nafiul Khalid</h3>
 
