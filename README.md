@@ -48,9 +48,12 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 ---
 
 ## GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-ten-eosin.vercel.app?user=Nafiul%20Khalid&theme=dark)](https://git.io/streak-stats)<hr>
-![Nafiul Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafiulkhalid&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<hr>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats-ten-eosin.vercel.app?user=Nafiul%20Khalid&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nafiulkhalid&show_icons=true&theme=radical" alt="Nafiul Khalid's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nafiul Khalid's Most Used Languages" />
+</div>
+
 
 ### Hackathons:
 --> TreeHacks-2025<br>
