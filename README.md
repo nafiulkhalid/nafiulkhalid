@@ -56,8 +56,9 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 --> HackHarvard-2024<br>
 --> ShellHacks-2024<br>
 
-### To connect:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nafiul_khalid) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
+### Get in Touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
+
 
 
