@@ -1,5 +1,6 @@
 ![intro](onee.png)
 ![line](line.gif)
+<h3 align="center">..__I'm Nafiul Khalid__..</h3>
 
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
@@ -63,6 +64,7 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 ### Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
-
-![closing](T-rex.png)
+<div align="center">
+  <img src="T-rex.gif" alt="..__Thank you__..">
+</div>
 
