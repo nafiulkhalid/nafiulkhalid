@@ -1,8 +1,6 @@
-![image](onee.png)
+
 ![intro](intro.gif)
 ![line](line.gif)
-
-
 
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
