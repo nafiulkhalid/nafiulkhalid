@@ -1,5 +1,4 @@
-
-![intro](intro.gif)
+![intro](onee.png)
 ![line](line.gif)
 
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
@@ -65,5 +64,5 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
 
-
+![closing](T-rex.png)
 
