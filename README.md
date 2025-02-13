@@ -3,16 +3,17 @@
 <h3 align="center">__Hi__</h3>
 <h3 align="center">..____I'm Nafiul Khalid____..</h3>
 
-Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
+<b>Sophomore</b> in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
 Looking for opportunities in Software Engineering (SWE)<br>
--- Currently learning Machine Learning (Model Training)<br>
--- Love to design & create<br>
--- Based in Miami, Florida <br>
-(Open to relocate or remote opportunities)<br>
+* Currently learning Machine Learning (Model Training)<br>
+* Love to design & create<br>
+* Based in Miami, Florida <br>
+  - (Open to relocate or remote opportunities)<br>
+  
 Enjoy: Backend! ----- I love the logic behind how everything works, beyond what we see!<br>
 
-## Tech Stack:
+## </> Tech Stack:
 
 #### **Programming Languages:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -48,14 +49,14 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 
 ---
 
-## GitHub Stats:
+## [-] GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats-ten-eosin.vercel.app?user=Nafiul%20Khalid&theme=dark" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nafiulkhalid&show_icons=true&theme=radical" alt="Nafiul Khalid's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nafiul Khalid's Most Used Languages" />
 </div>
 
-### Get in Touch:
+### [+] Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
 
