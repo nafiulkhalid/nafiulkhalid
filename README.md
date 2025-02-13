@@ -6,7 +6,6 @@
 Sophomore in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
 Looking for opportunities in Software Engineering (SWE)<br>
-![Portfolio](https://nafiulkhalid.github.io/)
 -- Currently learning Machine Learning (Model Training)<br>
 -- Love to design & create<br>
 -- Based in Miami, Florida <br>
