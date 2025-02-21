@@ -11,7 +11,7 @@ Looking for opportunities in Software Engineering (SWE)<br>
 * Based in Miami, Florida <br>
   - (Open to relocate or remote opportunities)<br>
   
-Enjoy: Backend! ----- I love the logic behind how everything works, beyond what we see!<br>
+Enjoy: Backend! -- I love the logic behind how everything works, beyond what we see!<br>
 
 ## </> Tech Stack:
 
