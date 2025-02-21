@@ -20,7 +20,10 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![REXX](https://img.shields.io/badge/rexx-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
 
 #### **Frontend Development:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -29,7 +32,7 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
+![HTMX](https://img.shields.io/badge/htmx-%230000FF.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### **Backend Development:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -39,13 +42,18 @@ Enjoy: Backend! ----- I love the logic behind how everything works, beyond what 
 #### **Databases:**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 #### **Tools and Platforms:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![UNIX](https://img.shields.io/badge/unix-%23FCC624.svg?style=for-the-badge&logo=gnubash&logoColor=black) 
+![IBM Z](https://img.shields.io/badge/IBM%20Z-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
+![JCL](https://img.shields.io/badge/JCL-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
+![ZOAU](https://img.shields.io/badge/ZOAU-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![Design Docs](https://img.shields.io/badge/Design-Docs-%234CAF50.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 ---
 
