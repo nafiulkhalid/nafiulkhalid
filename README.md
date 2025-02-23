@@ -65,7 +65,11 @@ Enjoy: Backend! -- I love the logic behind how everything works, beyond what we 
 </div>
 
 ---
+### [#] Mentions:
+1. LinkedIn Top Software Development Voice (<3% quality contributors)
+2. IBM Z Student Ambassador 
 
+---
 ### [+] Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
