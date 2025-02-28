@@ -1,6 +1,6 @@
 ![intro](onee.png)
 ![line](line.gif)
-<h3 align="center">__Hey__</h3>
+<h3 align="center">__..Hey..__</h3>
 <h3 align="center">..__I'm Nafiul Khalid__..</h3>
 
 <b>Sophomore</b> in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
