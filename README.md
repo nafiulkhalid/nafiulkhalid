@@ -67,7 +67,6 @@ Enjoy: Backend! -- I love the logic behind how everything works, beyond what we 
 ---
 ### [#] Mentions:
 1. IBM Z Student Ambassador
-2. IBM TechXchange 2025
 3. LinkedIn Top Software Development Voice (<3% quality contributors)
 
 
