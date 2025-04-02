@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/3c9e0b9a-214d-440e-a2dc-986dbc33daaf)
 ![line](line.gif)
-<h3 align="center">___..Hey..___</h3>
 <h3 align="center">..__I'm Nafiul Khalid__..</h3>
 
 <b>Sophomore</b> in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
