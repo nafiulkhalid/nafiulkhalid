@@ -21,6 +21,7 @@ In free time, I love to explore Quantum Computing<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![REXX](https://img.shields.io/badge/rexx-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
