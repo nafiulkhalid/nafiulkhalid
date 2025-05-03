@@ -5,7 +5,7 @@
 <b>Sophomore</b> in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
 Looking for opportunities in Software Engineering (SWE)<br>
-* Currently learning IBM mainframe technologies<br>
+* Currently learning Quantum Machine Learning (QML)<br>
 * Love to design & create<br>
 * Based in Miami, Florida <br>
   - (Open to relocate or remote opportunities)<br>
