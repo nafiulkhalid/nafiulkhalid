@@ -2,7 +2,7 @@
 ![line](line.gif)
 <h3 align="center">..__I'm Nafiul Khalid__..</h3>
 
-<b>Sophomore</b> in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
+<b>Junior</b> in Computer Science (B.S.) at Honors College, Florida International University (FIU)<br>
 Full-Stack Web Developer<br>
 Looking for opportunities in Software Engineering (SWE)<br>
 * Currently learning Quantum Machine Learning (QML)<br>
