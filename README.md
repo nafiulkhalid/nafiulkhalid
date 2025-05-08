@@ -11,7 +11,6 @@ Looking for opportunities in Software Engineering (SWE)<br>
   - (Open to relocate or remote opportunities)<br>
   
 I enjoy Backend! -- the logic behind how everything works beyond what we see, excites me!<br>
-In free time, I love to explore Quantum Computing<br>
 
 ## </> Tech Stack:
 
