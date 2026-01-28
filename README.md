@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3c9e0b9a-214d-440e-a2dc-986dbc33daaf)
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/74762b08-2e41-47f9-8984-4aa404d55cd4" />
 ![line](line.gif)
 <h3 align="center">..__I'm Nafiul Khalid__..</h3>
 
