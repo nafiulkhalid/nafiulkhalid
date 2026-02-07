@@ -1,4 +1,4 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/74762b08-2e41-47f9-8984-4aa404d55cd4" />
+<img width="1584" height="396" alt="• Full-stack web applications • ML-integrated systems" src="https://github.com/user-attachments/assets/fd9ccfc2-b269-4b65-ad02-fed9e2aefa72" />
 
 ![line](line.gif)
 <h3 align="center">..__I'm Nafiul Khalid__..</h3>
