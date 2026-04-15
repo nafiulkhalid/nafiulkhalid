@@ -1,19 +1,67 @@
 <img width="1584" height="396" alt="• Full-stack web applications • ML-integrated systems" src="https://github.com/user-attachments/assets/fd9ccfc2-b269-4b65-ad02-fed9e2aefa72" />
 
 ![line](line.gif)
-<h3 align="center">..__I'm Nafiul Khalid__..</h3>
+<h1 align="center">..__I'm Nafiul Khalid__..</h1>
 
-<b>Junior</b> in Computer Science (B.S.) at the Honors College of Florida International University (FIU)<br>
-Full-Stack Web Developer<br>
+<b>Senior</b> in Computer Science (B.S.) at the Honors College of Florida International University (FIU)<br>
 Looking for opportunities in Software Engineering (SWE)<br>
-* Currently learning Quantum Machine Learning (QML)<br>
 * Love to design & create<br>
 * Based in Miami, Florida <br>
   - (Open to relocate or remote opportunities)<br>
   
 I enjoy Backend! -- the logic behind how everything works beyond what we see, excites me!<br>
 
-## </> Tech Stack:
+
+---
+
+## Experiences:
+
+<h3>Elevvo</h3>
+<h4>Data Analytics Intern</h4> <p>September 2025 - December 2025 · Part-time</p>
+<ul>
+  <li>Improved KPI dashboards in Excel & Power BI; performed EDA in Python and analyzed sales using SQL, applying RFM segmentation and data cleaning to extract actionable user behavior insights</li>
+</ul>
+
+<h3>FIU College of Engineering & Computing</h3>
+<h4>Quantum Computing Research Assistant</h4> <p>May 2025 - March 2026 · Part-time</p>
+<ul>
+  <li>Researched complex-frequency pulse shaping in photonic quantum circuits; benchmarked a custom
+simulation library for non-Hermitian quantum control and contributed to a published book</li>
+</ul>
+
+<h3>INIT FIU</h3>
+<h4>Technical Team Lead</h4> <p>January 2025 - April 2025 · Part-time</p>
+<ul>
+  <li>Led a 15-member team to build a full-stack marketplace for FIU community using the MERN stack and CI tools, targeting an initial user base of 500+ students</li>
+</ul>
+
+<h3>W. R. Thomas Middle School</h3>
+<h4>Teaching Intern</h4> <p>January 2025 - April 2025 · Part-time</p>
+<ul>
+  <li>Taught Computational Thinking (CIS1940) and Python to a class of 21 students</li>
+</ul>
+
+<h3>FIU Housing and Residential Experience </h3>
+<h4>Desk Operations Lead</h4> <p>Aug 2024 - Present · On-Campus</p>
+<ul>
+  <li>Supervised 45 staff managing operations for 500+ residents; resolved 400+ weekly inquiries and
+maintained 100% accuracy in sensitive FERPA-compliant records</li>
+</ul>
+
+<!--
+## Technical Projects:
+
+<h3></h3>
+<h4></h4> <p></p>
+<ul>
+  <li></li>
+</ul>
+-->
+
+
+--- 
+
+## Tech Stack:
 
 #### **Programming Languages:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -55,23 +103,9 @@ I enjoy Backend! -- the logic behind how everything works beyond what we see, ex
 ![ZOAU](https://img.shields.io/badge/ZOAU-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![Design Docs](https://img.shields.io/badge/Design-Docs-%234CAF50.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-
-## [-] GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats-ten-eosin.vercel.app?user=Nafiul%20Khalid&theme=dark" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nafiulkhalid&show_icons=true&theme=radical" alt="Nafiul Khalid's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nafiul Khalid's Most Used Languages" />
-</div>
 
 ---
 ### [#] Mentions:
-1. IBM Z Student Ambassador
-3. LinkedIn Top Software Development Voice (<3% quality contributors)
-
-
----
-### [+] Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nafiulkhalid/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=codeigniter&logoColor=white)](https://nafiulkhalid.github.io/)
+1. LinkedIn Top Software Development Voice (Top 3% globally)
+2. Quantum Excellence Award - Qiskit Global Summer School 2025 (IBM Quantum)
 
