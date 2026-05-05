@@ -1,111 +1,108 @@
 <img width="1584" height="396" alt="• Full-stack web applications • ML-integrated systems" src="https://github.com/user-attachments/assets/fd9ccfc2-b269-4b65-ad02-fed9e2aefa72" />
 
 ![line](line.gif)
-<h1 align="center">..__I'm Nafiul Khalid__..</h1>
 
-<b>Senior</b> in Computer Science (B.S.) at the Honors College of Florida International University (FIU)<br>
-Looking for opportunities in Software Engineering (SWE)<br>
-* Love to design & create<br>
-* Based in Miami, Florida <br>
-  - (Open to relocate or remote opportunities)<br>
-  
-I enjoy Backend! -- the logic behind how everything works beyond what we see, excites me!<br>
+<h1 align="center">I'm Nafiul Khalid (Nafi)</h1>
 
+<p align="center">
+  <a href="https://linkedin.com/in/nafiulkhalid"><img src="https://img.shields.io/badge/LinkedIn-nafiulkhalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://nafiulkhalid.github.io"><img src="https://img.shields.io/badge/Portfolio-nafiulkhalid.github.io-6E56CF?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="mailto:nkhal014@fiu.edu"><img src="https://img.shields.io/badge/Email-nkhal014@fiu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  🏆&nbsp;<b>LinkedIn Top Software Development Voice</b>&nbsp;·&nbsp;Top 3% Globally&nbsp;&nbsp;|&nbsp;&nbsp;🥇&nbsp;<b>IBM Quantum Excellence Award</b>&nbsp;·&nbsp;Qiskit Global Summer School 2025
+</p>
 
 ---
 
-## Experiences:
+**B.S. Computer Science · FIU Honors College · GPA 3.77 · Dean's List · May 2027**
 
-<h3>Elevvo</h3>
-<h4>Data Analytics Intern</h4> <p>September 2025 - December 2025 · Part-time</p>
-<ul>
-  <li>Improved KPI dashboards in Excel & Power BI; performed EDA in Python and analyzed sales using SQL, applying RFM segmentation and data cleaning to extract actionable user behavior insights</li>
-</ul>
+ML Engineer aspirant and Full-Stack Developer with a background in systems, quantum computing research, and hackathon-built products. I love backend — the logic behind what we see, excites me.
 
-<h3>FIU College of Engineering & Computing</h3>
-<h4>Quantum Computing Research Assistant</h4> <p>May 2025 - March 2026 · Part-time</p>
-<ul>
-  <li>Researched complex-frequency pulse shaping in photonic quantum circuits; benchmarked a custom
-simulation library for non-Hermitian quantum control and contributed to a published book</li>
-</ul>
+- 🔬 &nbsp;Quantum Computing Research Assistant @ FIU — contributed to a **published book**
+- 🏗️ &nbsp;Built at **TreeHacks · HackHarvard · HackNYU** — shipped in 36-hour sprints
+- 🌎 &nbsp;Miami, FL · Open to **SWE / MLE internships** · Willing to relocate or work remotely
 
-<h3>INIT FIU</h3>
-<h4>Technical Team Lead</h4> <p>January 2025 - April 2025 · Part-time</p>
-<ul>
-  <li>Led a 15-member team to build a full-stack marketplace for FIU community using the MERN stack and CI tools, targeting an initial user base of 500+ students</li>
-</ul>
+---
 
-<h3>W. R. Thomas Middle School</h3>
-<h4>Teaching Intern</h4> <p>January 2025 - April 2025 · Part-time</p>
-<ul>
-  <li>Taught Computational Thinking (CIS1940) and Python to a class of 21 students</li>
-</ul>
+## 🚀 Projects
 
-<h3>FIU Housing and Residential Experience </h3>
-<h4>Desk Operations Lead</h4> <p>Aug 2024 - Present · On-Campus</p>
-<ul>
-  <li>Supervised 45 staff managing operations for 500+ residents; resolved 400+ weekly inquiries and
-maintained 100% accuracy in sensitive FERPA-compliant records</li>
-</ul>
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**AERO**](https://github.com/nafiulkhalid/AERO) | Voice-driven AI assistant (TreeHacks) — speech-to-action pipeline with on-screen task automation | Python · Gemini 1.5 · Groq LPU · Deepgram · OpenCV |
+| [**CanaryOS**](https://github.com/nafiulkhalid/CanaryOS) | Real-time voice translation with distributed NLP pipeline — built with a 20-person team | Go · Python · PyTorch · PostgreSQL · HTMX |
+| [**Genie**](https://github.com/nafiulkhalid/Genie) | Fintech browser extension (HackNYU) — analyzes spending & automates savings recommendations | React · TypeScript · Python · WXT |
+| [**HackEnzyme**](https://github.com/nafiulkhalid/HackEnzyme) | Bioinformatics enzyme predictor from SMILES inputs (HackHarvard) — 30K+ LinkedIn impressions | Python · 3Dmol.js · Jupyter |
 
-<!--
-## Technical Projects:
+---
 
-<h3></h3>
-<h4></h4> <p></p>
-<ul>
-  <li></li>
-</ul>
--->
+## 💼 Experience
 
+**Data Analytics Intern · Elevvo** *(Sep 2025 – Dec 2025)*
+- Improved KPI dashboards in Excel & Power BI; performed EDA in Python and analyzed sales using SQL, applying RFM segmentation and data cleaning to extract actionable user behavior insights
 
---- 
+**Quantum Computing Research Assistant · FIU College of Engineering & Computing** *(May 2025 – Mar 2026)*
+- Researched complex-frequency pulse shaping in photonic quantum circuits; benchmarked a custom simulation library for non-Hermitian quantum control and contributed to a published book
 
-## Tech Stack:
+**Technical Team Lead · INIT FIU** *(Jan 2025 – Apr 2025)*
+- Led a 15-member team to build a full-stack marketplace for FIU community using the MERN stack and CI tools, targeting an initial user base of 500+ students
 
-#### **Programming Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![REXX](https://img.shields.io/badge/rexx-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
+**Teaching Intern · W. R. Thomas Middle School** *(Jan 2025 – Apr 2025)*
+- Taught Computational Thinking (CIS1940) and Python to a class of 21 students
 
-#### **Frontend Development:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+**Desk Operations Lead · FIU Housing and Residential Experience** *(Aug 2024 – Present)*
+- Supervised 45 staff managing operations for 500+ residents; resolved 400+ weekly inquiries and maintained 100% accuracy in sensitive FERPA-compliant records
+
+---
+
+## 🛠 Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HTMX](https://img.shields.io/badge/htmx-%230000FF.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Backend Development:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![REST APIs](https://img.shields.io/badge/REST-APIs-%23404d59.svg?style=for-the-badge&logo=api&logoColor=white)
-
-#### **Databases:**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### **Tools and Platforms:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![UNIX](https://img.shields.io/badge/unix-%23FCC624.svg?style=for-the-badge&logo=gnubash&logoColor=black) 
-![IBM Z](https://img.shields.io/badge/IBM%20Z-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
-![JCL](https://img.shields.io/badge/JCL-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white) 
-![ZOAU](https://img.shields.io/badge/ZOAU-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white)
-![Design Docs](https://img.shields.io/badge/Design-Docs-%234CAF50.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-### [#] Mentions:
-1. LinkedIn Top Software Development Voice (Top 3% globally)
-2. Quantum Excellence Award - Qiskit Global Summer School 2025 (IBM Quantum)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nafiulkhalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulkhalid&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nafiulkhalid&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Let's build something great — reach out anytime.</i></p>
