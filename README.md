@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="• Full-stack web applications • ML-integrated systems" src="https://github.com/user-attachments/assets/fd9ccfc2-b269-4b65-ad02-fed9e2aefa72" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/8821f9cf-c21c-4845-864d-f09c7cc09c0c" />
 
 ![line](line.gif)
 
