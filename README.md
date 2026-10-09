@@ -3,24 +3,12 @@
 ![line](line.gif)
 
 <h2 align="center">Hey, I'm Nafiul (Nafi)</h2>
-<h4 align="center">📍 Miami, FL &nbsp;|&nbsp; 🎓 B.S. Computer Science, Minor in Mathematics @ FIU Honors College &nbsp;|&nbsp; 🤖 SWE Aspirant</h4>
+<h4 align="center">📍 Miami, FL &nbsp;|&nbsp; 🎓 B.S. Computer Science @ FIU Honors College &nbsp;|&nbsp; 🤖 SWE Aspirant</h4>
 
 
-**Graduation**: December 2027
+**Expecetd Graduation**: December 2027
 
 **Current Target**: Summer 2027 Software Engineering Internship
-
----
-
-## Start Here
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**Transformer LLM**](https://github.com/nafiulkhalid/Transformer_LLM) | GPT-style transformer built from scratch — tokenizer, multi-head attention, training loop — generating text at 40 tokens/sec on consumer hardware via a streaming FastAPI + React chat UI | Python · PyTorch · FastAPI · React |
-| [**Search Engine**](https://github.com/nafiulkhalid/Search_Engine) | Vector-space search engine with TF-IDF scoring on a self-built Redis-compatible store, returning relevance-ranked results in under 100ms across 10,000+ documents | Python · Redis Protocol · TF-IDF · React |
-| [**Database Engine**](https://github.com/nafiulkhalid/Database_Engine) | Persistent key-value store built from scratch with a custom wire protocol, handling 5,000+ ops/sec at sub-5ms latency, monitored via a live React dashboard | Python · Sockets · React |
-| [**Regex Engine**](https://github.com/nafiulkhalid/Regex_Engine) | Backtracking, NFA, and DFA-based regex engines built from first principles — DFA matches patterns up to 10x faster on pathological inputs | Python · Automata Theory · React |
-| [**REST API Server**](https://github.com/nafiulkhalid/REST_API_Server) | Hand-built REST API and CRUD client serving 1,000+ concurrent requests at 99.9% uptime, with no framework abstraction between HTTP handling and business logic | Python · Flask · React |
 
 ---
 
@@ -58,7 +46,7 @@
 
 - **IBM Quantum Excellence Award** — Qiskit Global Summer School 2025
 - **LinkedIn Top Software Development Voice** — Top 3% Globally
-- **Dean's List** · GPA 3.60 · FIU Honors College
+- **Dean's List** · FIU Honors College
 ---
 
 ## Connect
