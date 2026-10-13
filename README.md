@@ -46,7 +46,7 @@
 
 - **IBM Quantum Excellence Award** — Qiskit Global Summer School 2025
 - **LinkedIn Top Software Development Voice** — Top 3% Globally
-- **Dean's List** · FIU Honors College
+- **Dean's List** - FIU Honors College
 ---
 
 ## Connect
