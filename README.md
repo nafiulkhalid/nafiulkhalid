@@ -10,6 +10,7 @@
   <a href="https://nafiulkhalid.com/experiences"><img src="./assets/more.svg" alt="see more" height="20"></a>
 </p>
 
+<!--
 ## Projects & Research
 
 <p>
@@ -31,6 +32,7 @@
 <a href="#"><img src="./assets/card-paper.svg" width="50%" alt="[Paper title]"></a><a href="#"><img src="./assets/card-poster.svg" width="50%" alt="[Poster title]"></a><br>
 <a href="#"><img src="./assets/btn-pdf.svg" width="16.66%" alt="PDF"></a><a href="#"><img src="./assets/btn-code.svg" width="16.66%" alt="Code"></a><a href="#"><img src="./assets/btn-talk.svg" width="16.66%" alt="Talk"></a><a href="#"><img src="./assets/btn-poster.svg" width="16.66%" alt="Poster"></a><a href="#"><img src="./assets/btn-code.svg" width="16.66%" alt="Code"></a>
 </p>
+--!>
 
 ## Let's Find a Time
 
