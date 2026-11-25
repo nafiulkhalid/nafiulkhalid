@@ -2,7 +2,7 @@
      Placeholders are in [square brackets]. Search for "[" and "TODO" to fill them in. -->
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Nafiul Khalid — CS senior at FIU Honors College. I build ML infrastructure from first principles and research how people interact with LLMs." />
+  <img src="banner.svg" width="100%" alt="Nafiul Khalid — CS senior at FIU Honors College. I build ML infrastructure from first principles and research how people interact with LLMs." />
 </p>
 
 ## Toolbox
@@ -138,15 +138,15 @@ Tell it what you're hiring for or building. It answers from my real projects and
 
 <!-- TODO: host the chat at nafiulkhalid.com/fit; each tile opens it with the question pre-filled -->
 <p>
-  <a href="https://nafiulkhalid.com/fit"><img src="assets/fit-chat.svg" width="100%" alt="Fit Assistant: ask what you are looking for and get bullet points on how I fit" /></a>
+  <a href="https://nafiulkhalid.com/fit"><img src="fit-chat.svg" width="100%" alt="Fit Assistant: ask what you are looking for and get bullet points on how I fit" /></a>
 </p>
 
 <p>
-  <a href="https://nafiulkhalid.com/fit?q=hiring-swe"><img src="assets/ask-swe.svg" height="120" alt="Hiring for Software Engineer" /></a>
-  <a href="https://nafiulkhalid.com/fit?q=building-ai"><img src="assets/ask-ai.svg" height="120" alt="Building an AI project" /></a>
+  <a href="https://nafiulkhalid.com/fit?q=hiring-swe"><img src="ask-swe.svg" height="120" alt="Hiring for Software Engineer" /></a>
+  <a href="https://nafiulkhalid.com/fit?q=building-ai"><img src="ask-ai.svg" height="120" alt="Building an AI project" /></a>
   <br>
-  <a href="https://nafiulkhalid.com/fit?q=developer"><img src="assets/ask-dev.svg" height="56" alt="Searching for a developer" /></a>
-  <a href="https://nafiulkhalid.com/fit?q=collaboration"><img src="assets/ask-collab.svg" height="56" alt="Looking for a collaboration" /></a>
+  <a href="https://nafiulkhalid.com/fit?q=developer"><img src="ask-dev.svg" height="56" alt="Searching for a developer" /></a>
+  <a href="https://nafiulkhalid.com/fit?q=collaboration"><img src="ask-collab.svg" height="56" alt="Looking for a collaboration" /></a>
 </p>
 
 <sub>Answers are generated from my projects and papers. [Privacy / "AI can make mistakes" note]</sub>
