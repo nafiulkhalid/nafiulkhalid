@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="201" viewBox="0 0 840 201" role="img" aria-labelledby="t d">
+  <title id="t">Toolbox</title>
+  <desc id="d">Languages: Python, JavaScript, Go, Java, C, SQL. Frameworks &amp; Backend: PyTorch, LangChain, Node.js, Express.js, React, MongoDB, PostgreSQL, MySQL. Systems &amp; Devops: Linux, Docker, Kubernetes, Jenkins, AWS, Git, REST APIs, Microservices, PyTest.</desc>
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .pill { animation: pop .4s ease-out backwards; }
+    @keyframes pop { from { opacity: 0; transform: translateY(6px); } }
+  </style>
+  <text class="mono" x="0" y="14" font-size="11" font-weight="600" letter-spacing="0.8" fill="#79b8ff">LANGUAGES <tspan fill="#8b949e" font-weight="400">· 6</tspan></text>
+  <g transform="translate(0 24)"><g class="pill" style="animation-delay:0.00s">
+    <rect x="0.5" y="0.5" width="77.2" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#79b8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="43.2" lengthAdjust="spacing">Python</text>
+  </g></g>
+  <g transform="translate(86.2 24)"><g class="pill" style="animation-delay:0.05s">
+    <rect x="0.5" y="0.5" width="106.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#79b8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="72.0" lengthAdjust="spacing">JavaScript</text>
+  </g></g>
+  <g transform="translate(201.2 24)"><g class="pill" style="animation-delay:0.10s">
+    <rect x="0.5" y="0.5" width="48.4" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#79b8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="14.4" lengthAdjust="spacing">Go</text>
+  </g></g>
+  <g transform="translate(258.6 24)"><g class="pill" style="animation-delay:0.15s">
+    <rect x="0.5" y="0.5" width="62.8" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#79b8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="28.8" lengthAdjust="spacing">Java</text>
+  </g></g>
+  <g transform="translate(330.4 24)"><g class="pill" style="animation-delay:0.20s">
+    <rect x="0.5" y="0.5" width="41.2" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#79b8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="7.2" lengthAdjust="spacing">C</text>
+  </g></g>
+  <g transform="translate(380.6 24)"><g class="pill" style="animation-delay:0.25s">
+    <rect x="0.5" y="0.5" width="55.6" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#79b8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="21.6" lengthAdjust="spacing">SQL</text>
+  </g></g>
+  <text class="mono" x="0" y="88" font-size="11" font-weight="600" letter-spacing="0.8" fill="#56d364">FRAMEWORKS &amp; BACKEND <tspan fill="#8b949e" font-weight="400">· 8</tspan></text>
+  <g transform="translate(0 98)"><g class="pill" style="animation-delay:0.30s">
+    <rect x="0.5" y="0.5" width="84.4" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="50.4" lengthAdjust="spacing">PyTorch</text>
+  </g></g>
+  <g transform="translate(93.4 98)"><g class="pill" style="animation-delay:0.35s">
+    <rect x="0.5" y="0.5" width="98.8" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="64.8" lengthAdjust="spacing">LangChain</text>
+  </g></g>
+  <g transform="translate(201.2 98)"><g class="pill" style="animation-delay:0.40s">
+    <rect x="0.5" y="0.5" width="84.4" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="50.4" lengthAdjust="spacing">Node.js</text>
+  </g></g>
+  <g transform="translate(294.6 98)"><g class="pill" style="animation-delay:0.45s">
+    <rect x="0.5" y="0.5" width="106.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="72.0" lengthAdjust="spacing">Express.js</text>
+  </g></g>
+  <g transform="translate(409.6 98)"><g class="pill" style="animation-delay:0.50s">
+    <rect x="0.5" y="0.5" width="70.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="36.0" lengthAdjust="spacing">React</text>
+  </g></g>
+  <g transform="translate(488.6 98)"><g class="pill" style="animation-delay:0.55s">
+    <rect x="0.5" y="0.5" width="84.4" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="50.4" lengthAdjust="spacing">MongoDB</text>
+  </g></g>
+  <g transform="translate(582.0 98)"><g class="pill" style="animation-delay:0.60s">
+    <rect x="0.5" y="0.5" width="106.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="72.0" lengthAdjust="spacing">PostgreSQL</text>
+  </g></g>
+  <g transform="translate(697.0 98)"><g class="pill" style="animation-delay:0.65s">
+    <rect x="0.5" y="0.5" width="70.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#56d364"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="36.0" lengthAdjust="spacing">MySQL</text>
+  </g></g>
+  <text class="mono" x="0" y="162" font-size="11" font-weight="600" letter-spacing="0.8" fill="#d2a8ff">SYSTEMS &amp; DEVOPS <tspan fill="#8b949e" font-weight="400">· 9</tspan></text>
+  <g transform="translate(0 172)"><g class="pill" style="animation-delay:0.70s">
+    <rect x="0.5" y="0.5" width="70.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="36.0" lengthAdjust="spacing">Linux</text>
+  </g></g>
+  <g transform="translate(79.0 172)"><g class="pill" style="animation-delay:0.75s">
+    <rect x="0.5" y="0.5" width="77.2" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="43.2" lengthAdjust="spacing">Docker</text>
+  </g></g>
+  <g transform="translate(165.2 172)"><g class="pill" style="animation-delay:0.80s">
+    <rect x="0.5" y="0.5" width="106.0" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="72.0" lengthAdjust="spacing">Kubernetes</text>
+  </g></g>
+  <g transform="translate(280.2 172)"><g class="pill" style="animation-delay:0.85s">
+    <rect x="0.5" y="0.5" width="84.4" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="50.4" lengthAdjust="spacing">Jenkins</text>
+  </g></g>
+  <g transform="translate(373.6 172)"><g class="pill" style="animation-delay:0.90s">
+    <rect x="0.5" y="0.5" width="55.6" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="21.6" lengthAdjust="spacing">AWS</text>
+  </g></g>
+  <g transform="translate(438.2 172)"><g class="pill" style="animation-delay:0.95s">
+    <rect x="0.5" y="0.5" width="55.6" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="21.6" lengthAdjust="spacing">Git</text>
+  </g></g>
+  <g transform="translate(502.8 172)"><g class="pill" style="animation-delay:1.00s">
+    <rect x="0.5" y="0.5" width="98.8" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="64.8" lengthAdjust="spacing">REST APIs</text>
+  </g></g>
+  <g transform="translate(610.6 172)"><g class="pill" style="animation-delay:1.05s">
+    <rect x="0.5" y="0.5" width="127.6" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="93.6" lengthAdjust="spacing">Microservices</text>
+  </g></g>
+  <g transform="translate(747.2 172)"><g class="pill" style="animation-delay:1.10s">
+    <rect x="0.5" y="0.5" width="77.2" height="27" rx="14.0" fill="#161b22" stroke="#30363d"/>
+    <circle cx="13" cy="14" r="3" fill="#d2a8ff"/>
+    <text class="mono" x="23" y="18.2" font-size="12" fill="#e6edf3" textLength="43.2" lengthAdjust="spacing">PyTest</text>
+  </g></g>
+</svg>

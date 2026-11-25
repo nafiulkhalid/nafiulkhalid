@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="192" viewBox="0 0 424 192" role="img" aria-label="Regex Engine: Backtracking, NFA and DFA matchers built from automata theory.">
+  <style>
+    .sans { font-family: -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <rect x="4.5" y="0.5" width="415" height="191" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text class="sans" x="24" y="32" font-size="11" font-weight="600" letter-spacing="0.8" fill="#56d364">SYSTEMS</text>
+  <text class="sans" x="24" y="58" font-size="17" font-weight="600" fill="#e6edf3">Regex Engine</text>
+  <text class="sans" x="24" y="82" font-size="13" fill="#c9d1d9">Backtracking, NFA and DFA matchers built from automata</text>
+  <text class="sans" x="24" y="102" font-size="13" fill="#c9d1d9">theory.</text>
+  <text class="mono" x="24" y="136" font-size="24" font-weight="700" fill="#e6edf3">[n]×<tspan font-size="13" font-weight="400" fill="#8b949e"> DFA vs backtracking</tspan></text>
+  <rect x="24" y="150" width="59.2" height="22" rx="6" fill="#21262d"/>
+  <text class="mono" x="32" y="165" font-size="12" fill="#c9d1d9" textLength="43.2" lengthAdjust="spacing">Python</text>
+  <rect x="89.2" y="150" width="73.6" height="22" rx="6" fill="#21262d"/>
+  <text class="mono" x="97.2" y="165" font-size="12" fill="#c9d1d9" textLength="57.6" lengthAdjust="spacing">Automata</text>
+</svg>

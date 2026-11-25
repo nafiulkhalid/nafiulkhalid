@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="192" viewBox="0 0 424 192" role="img" aria-label="[Paper title]: [One- or two-line finding of the study.]">
+  <style>
+    .sans { font-family: -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <rect x="4.5" y="0.5" width="415" height="191" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text class="sans" x="24" y="32" font-size="11" font-weight="600" letter-spacing="0.8" fill="#e3b341">RESEARCH · PAPER</text>
+  <text class="sans" x="24" y="58" font-size="17" font-weight="600" fill="#e6edf3">[Paper title]</text>
+  <text class="sans" x="24" y="82" font-size="13" fill="#c9d1d9">[One- or two-line finding of the study.]</text>
+  <text class="mono" x="24" y="136" font-size="24" font-weight="700" fill="#e6edf3">[n]<tspan font-size="13" font-weight="400" fill="#8b949e"> participants · [Venue Year]</tspan></text>
+  <rect x="24" y="150" width="88" height="22" rx="6" fill="#21262d"/>
+  <text class="mono" x="32" y="165" font-size="12" fill="#c9d1d9" textLength="72" lengthAdjust="spacing">User study</text>
+  <rect x="118" y="150" width="59.2" height="22" rx="6" fill="#21262d"/>
+  <text class="mono" x="126" y="165" font-size="12" fill="#c9d1d9" textLength="43.2" lengthAdjust="spacing">Python</text>
+</svg>

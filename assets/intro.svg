@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-labelledby="t d">
+  <title id="t">Nafiul Khalid</title>
+  <desc id="d">CS senior at FIU Honors College. I build ML infrastructure from first principles and research how people interact with LLMs.</desc>
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="1" fill="#21262d"/>
+    </pattern>
+    <!-- typing mask: each rect grows one character (9px) every 0.045s -->
+    <clipPath id="typing">
+      <rect x="54" y="141" width="0" height="24">
+        <set attributeName="width" to="0" begin="clock.begin"/>
+        <animate attributeName="width" from="0" to="9" dur="0.045s" calcMode="discrete" accumulate="sum" repeatCount="40" begin="clock.begin+0.6s" fill="freeze"/>
+      </rect>
+      <rect x="54" y="165" width="0" height="24">
+        <set attributeName="width" to="0" begin="clock.begin"/>
+        <animate attributeName="width" from="0" to="9" dur="0.045s" calcMode="discrete" accumulate="sum" repeatCount="43" begin="clock.begin+2.55s" fill="freeze"/>
+      </rect>
+      <rect x="54" y="189" width="0" height="24">
+        <set attributeName="width" to="0" begin="clock.begin"/>
+        <animate attributeName="width" from="0" to="9" dur="0.045s" calcMode="discrete" accumulate="sum" repeatCount="39" begin="clock.begin+4.635s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- master clock: restarts the whole sequence every 9.59s -->
+  <rect width="0" height="0"><animate id="clock" attributeName="x" from="0" to="0" dur="9.59s" begin="0s;clock.end"/></rect>
+
+  <!-- box -->
+  <rect x="0.5" y="0.5" width="839" height="279" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="839" height="279" rx="8" fill="url(#dots)"/>
+
+  <!-- left: command, name, bio -->
+  <text class="mono" x="36" y="56" font-size="13" fill="#8b949e">~/nafiulkhalid $ whoami</text>
+  <text class="mono" x="34" y="110" font-size="40" font-weight="700" letter-spacing="-1" fill="#e6edf3">Nafiul Khalid</text>
+  <text class="mono" x="36" y="158" font-size="15" fill="#4493f8">›</text>
+  <g class="mono" font-size="15" fill="#4493f8" clip-path="url(#typing)">
+    <text x="54" y="158" textLength="360" lengthAdjust="spacing">CS senior at FIU Honors College. I build</text>
+    <text x="54" y="182" textLength="387" lengthAdjust="spacing">ML infrastructure from first principles and</text>
+    <text x="54" y="206" textLength="351" lengthAdjust="spacing">research how people interact with LLMs.</text>
+  </g>
+
+  <!-- cursors: one per line, shown while that line is being typed -->
+  <g transform="translate(55 144)"><rect class="cursor" width="4" height="18" fill="#e6edf3" visibility="visible">
+      <set attributeName="x" to="0" begin="clock.begin"/>
+      <animate attributeName="x" from="0" to="9" dur="0.045s" calcMode="discrete" accumulate="sum" repeatCount="40" begin="clock.begin+0.6s" fill="freeze"/>
+      <set attributeName="visibility" to="visible" begin="clock.begin"/>
+      <set attributeName="visibility" to="hidden" begin="clock.begin+2.55s"/>
+  </rect></g>
+  <g transform="translate(55 168)"><rect class="cursor" width="4" height="18" fill="#e6edf3" visibility="hidden">
+      <set attributeName="x" to="0" begin="clock.begin"/>
+      <animate attributeName="x" from="0" to="9" dur="0.045s" calcMode="discrete" accumulate="sum" repeatCount="43" begin="clock.begin+2.55s" fill="freeze"/>
+      <set attributeName="visibility" to="hidden" begin="clock.begin"/>
+      <set attributeName="visibility" to="visible" begin="clock.begin+2.55s"/>
+      <set attributeName="visibility" to="hidden" begin="clock.begin+4.635s"/>
+  </rect></g>
+  <g transform="translate(55 192)"><rect class="cursor" width="4" height="18" fill="#e6edf3" visibility="hidden">
+      <set attributeName="x" to="0" begin="clock.begin"/>
+      <animate attributeName="x" from="0" to="9" dur="0.045s" calcMode="discrete" accumulate="sum" repeatCount="39" begin="clock.begin+4.635s" fill="freeze"/>
+      <set attributeName="visibility" to="hidden" begin="clock.begin"/>
+      <set attributeName="visibility" to="visible" begin="clock.begin+4.635s"/>
+  </rect></g>
+
+  <!-- right: keyword tokens pop in as each word finishes typing -->
+  <text class="mono" x="804" y="46" font-size="11" letter-spacing="0.6" fill="#8b949e" text-anchor="end">tokens</text>
+  <g transform="translate(700.8 56)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+0.982s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="712.8 56" to="700.8 56" dur="0.3s" begin="clock.begin+0.982s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="102.2" height="20" rx="5" fill="#1f6feb" fill-opacity="0.18" stroke="#1f6feb"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">01</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="64.8" lengthAdjust="spacing">CS senior</text>
+  </g>
+  <g transform="translate(693.6 84)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+1.612s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="705.6 84" to="693.6 84" dur="0.3s" begin="clock.begin+1.612s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="109.4" height="20" rx="5" fill="#2ea043" fill-opacity="0.18" stroke="#2ea043"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">02</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="72.0" lengthAdjust="spacing">FIU Honors</text>
+  </g>
+  <g transform="translate(729.6 112)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+2.377s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="741.6 112" to="729.6 112" dur="0.3s" begin="clock.begin+2.377s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="73.4" height="20" rx="5" fill="#bb8009" fill-opacity="0.18" stroke="#bb8009"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">03</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="36.0" lengthAdjust="spacing">build</text>
+  </g>
+  <g transform="translate(643.2 140)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+3.292s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="655.2 140" to="643.2 140" dur="0.3s" begin="clock.begin+3.292s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="159.8" height="20" rx="5" fill="#8957e5" fill-opacity="0.18" stroke="#8957e5"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">04</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="122.4" lengthAdjust="spacing">ML infrastructure</text>
+  </g>
+  <g transform="translate(650.4 168)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+4.282s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="662.4 168" to="650.4 168" dur="0.3s" begin="clock.begin+4.282s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="152.6" height="20" rx="5" fill="#1f6feb" fill-opacity="0.18" stroke="#1f6feb"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">05</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="115.2" lengthAdjust="spacing">first principles</text>
+  </g>
+  <g transform="translate(708.0 196)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+4.973s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="720.0 196" to="708.0 196" dur="0.3s" begin="clock.begin+4.973s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="95.0" height="20" rx="5" fill="#2ea043" fill-opacity="0.18" stroke="#2ea043"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">06</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="57.6" lengthAdjust="spacing">research</text>
+  </g>
+  <g transform="translate(736.8 224)" opacity="0">
+    <set attributeName="opacity" to="0" begin="clock.begin"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="clock.begin+6.322s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="748.8 224" to="736.8 224" dur="0.3s" begin="clock.begin+6.322s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="66.2" height="20" rx="5" fill="#bb8009" fill-opacity="0.18" stroke="#bb8009"/>
+    <text class="mono" x="8" y="15" font-size="12" fill="#8b949e" textLength="14.4">07</text>
+    <text class="mono" x="30.4" y="15" font-size="12" fill="#e6edf3" textLength="28.8" lengthAdjust="spacing">LLMs</text>
+  </g>
+</svg>
